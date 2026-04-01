@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = g2ga@g2g.com
+	name = G2G
+[remote "origin"]
+	url = https://github.com/g2ga-069/aioukers.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
